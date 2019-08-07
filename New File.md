@@ -1,4 +1,3 @@
 # GitDemo
 # GIT PUSH
-# git
 
